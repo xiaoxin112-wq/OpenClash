@@ -1,5 +1,7 @@
-  - DOMAIN-SUFFIX,dmm.com
-  - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-SUFFIX,dmmgames.com
-  - DOMAIN-SUFFIX,dmm.hk
-  - DOMAIN-SUFFIX,dmm-extension.com
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+- DOMAIN-SUFFIX,dmm.com
+- DOMAIN-SUFFIX,dmm.co.jp
+- DOMAIN-SUFFIX,dmmgames.com
+- DOMAIN-SUFFIX,dmm.hk
+- DOMAIN-SUFFIX,dmm-extension.com
